@@ -1,1 +1,1 @@
-# python_projects
+This repository contains two data analysis projects: Beer Data Analysis and Treadmill Sales Analysis. Both projects involve exploratory data analysis (EDA), data cleaning, and visualization to uncover key insights.
